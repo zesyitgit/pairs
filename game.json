@@ -73,10 +73,10 @@
     "extensionProperties": [],
     "platforms": [
       {
-        "name": "GDevelop JS platform"
+        "name": "ZESYIT JS Platform"
       }
     ],
-    "currentPlatform": "GDevelop JS platform"
+    "currentPlatform": "ZESYIT JS Platform"
   },
   "resources": {
     "resources": [
